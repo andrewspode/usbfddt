@@ -1,0 +1,4 @@
+# Disk images: your own source image (may be copyrighted, e.g. a Windows
+# boot disk), and the files usbfddt.sh generates next to itself.
+*.img
+*.ima
