@@ -12,7 +12,7 @@ USBFDDT was built with Claude, under my direction, over several months of
 testing real drives, and tuned along the way for quick, effective use.
 
 It was released alongside my article on
-[how to service 1.44MB floppy disk drives](https://spodesabode.com/articles/how-to-service-floppy-disk-drives),
+[how to service 3.5" floppy disk drives](https://spodesabode.com/articles/how-to-service-3-5-inch-floppy-disk-drives/),
 which may help if your drives or disks are misbehaving.
 
 ## Features
